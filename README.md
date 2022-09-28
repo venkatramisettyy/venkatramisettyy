@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @venkatramisettyy
-- 👀 I’m interested in Problem solving 
-- 🌱 I’m currently Working in the feild of Artificial Intelligence
-- 💞️ I’m passionate about tech
-
+AL & ML Undergad
 
 <!---
 venkatramisettyy/venkatramisettyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
