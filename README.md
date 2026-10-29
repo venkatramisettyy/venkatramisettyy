@@ -127,7 +127,7 @@ I am interested in **AI/ML internships, research opportunities, and collaborativ
 - 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
 - 🧑‍💻 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
 - 📚 Google Scholar: [View my research](YOUR_GOOGLE_SCHOLAR_URL)
-- ✉️ Email: YOUR_EMAIL
+- ✉️ Email: ramisettylakshmivenkat@gmail.com
 
 ---
 
