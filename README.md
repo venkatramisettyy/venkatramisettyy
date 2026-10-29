@@ -43,7 +43,7 @@ I am interested in **AI/ML internships, research opportunities, and collaborativ
 
 - Explored transformer-based approaches for depression detection using audio signals.
 - Investigated acoustic feature extraction, including Mel-Frequency Cepstral Coefficients (MFCCs), using the DAIC-WOZ dataset.
-
+🔗 [Read Publication](https://link.springer.com/chapter/10.1007/978-3-032-09917-4_4)
 ### 🗣️ Multilingual Transformer Evaluation for Telugu Sentiment Analysis
 
 **Research Manuscript | Language Resources and Evaluation**
