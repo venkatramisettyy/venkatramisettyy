@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-🎓 **MS in Artificial Intelligence** @ University of Michigan–Dearborn  
 🤖 **AI Engineer | Machine Learning Researcher**  
 🔬 Interests: **NLP, LLMs, Multimodal AI, Healthcare AI, Speech Processing & Computer Vision**
 
